@@ -21,3 +21,10 @@
     <a href="https://github.com/Sanjay9783/AQI/blob/main/Model_Building.ipynb"> Model Building</a>
   </p>
 </div>
+
+
+## Deployed app
+[![Screenshot (10)](https://user-images.githubusercontent.com/109721928/183288118-e26c4a3d-8c88-4fcb-9a4e-8f0ee9fb9a1b.png)
+](https://ml-airqi.herokuapp.com/)
+
+[LINK TO HEROKU APP](https://ml-airqi.herokuapp.com/)
