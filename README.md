@@ -24,7 +24,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-Human health is greatly influenced by air quality. A wide range of health problems, particularly in children, are brought on by air quality degradation. With the capacity to forecast air quality, the government and other interested parties may take the required precautions to protect the most vulnerable from exposure to air that is potentially dangerous. Because these algorithms can't access enough longitudinal data, traditional approaches to this problem have relatively little success. Using publicly accessible archived pollution data, this project uses the Random Forest approach to construct a machine learning model to anticipate the concentrations of different contaminants and the air quality score.
+Human health is greatly influenced by air quality. A wide range of health problems, particularly in children, are brought on by air quality degradation. With the capacity to forecast air quality, the government and other interested parties may take the required precautions to protect the most vulnerable from exposure to air that is potentially dangerous. Because these algorithms can't access enough longitudinal data, traditional approaches to this problem have relatively little success. Using publicly accessible archived pollution data, this project uses the Random Forest approach to construct a machine learning model to anticipate the concentrations of different contaminants and the air quality score. With an accuracy of more than 80%, Random Forest Classifier outperformed the other evaluated techniques.
 
 ## Deployed app
 [![Screenshot (10)](https://user-images.githubusercontent.com/109721928/183288118-e26c4a3d-8c88-4fcb-9a4e-8f0ee9fb9a1b.png)
