@@ -1,0 +1,10 @@
+.ig {
+    background-image:url("123.jpg");
+    height: 100%;
+
+    background-size:cover;
+}
+
+.first{
+     text-align:center;
+}
