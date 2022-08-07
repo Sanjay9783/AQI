@@ -5,7 +5,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/Sanjay9783">
-    <img src="https://static.vecteezy.com/system/resources/thumbnails/005/385/049/small/human-heart-anatomically-hand-drawn-line-art-vintage-flash-tattoo-or-print-design-illustration-vector.jpg" alt="Logo" width="200" height="200"/> 
+    <img src="https://user-images.githubusercontent.com/109721928/183287320-bc6646d0-9e27-49a4-a805-fcf6903cf698.png" alt="Logo" width="200" height="200"/> 
   </a>
   
   <h3 align="center">Heart_Disease_Prediction</h3>
